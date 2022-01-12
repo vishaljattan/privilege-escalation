@@ -10,6 +10,12 @@ https://github.com/swisskyrepo/PayloadsAllTheThings (A bunch of tools and payloa
 
 Linux:
 
+
+https://sirensecurity.io/blog/linux-privilege-escalation-resources/  (most important)
+https://www.hackingarticles.in/linux-privilege-escalation-using-path-variable/ (most important)
+
+
+
 https://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/ (a bit old but still worth looking at)
 
 https://github.com/rebootuser/LinEnum (One of the most popular priv esc scripts)
